@@ -1,0 +1,15 @@
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\bin\Debug\net7.0\practico6.exe
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\bin\Debug\net7.0\practico6.deps.json
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\bin\Debug\net7.0\practico6.runtimeconfig.json
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\bin\Debug\net7.0\practico6.dll
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\bin\Debug\net7.0\practico6.pdb
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\practico6.csproj.AssemblyReference.cache
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\practico6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\practico6.AssemblyInfoInputs.cache
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\practico6.AssemblyInfo.cs
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\practico6.csproj.CoreCompileInputs.cache
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\practico6.dll
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\refint\practico6.dll
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\practico6.pdb
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP6\tl1_tp6_2023-jorgedonaire\practico6\obj\Debug\net7.0\ref\practico6.dll
