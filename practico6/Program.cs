@@ -33,3 +33,6 @@ if (control)
 {
     Console.WriteLine("No ingreso un numero");
 }
+
+// EJERCICIO 3
+
