@@ -149,3 +149,5 @@ if (control2)
 {
     Console.WriteLine("Numero ingresado incorrecto");
 }
+
+//EJERCICIO 4
